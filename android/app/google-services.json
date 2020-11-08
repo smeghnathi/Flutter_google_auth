@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "78186601340",
+    "firebase_url": "https://authentication-b652f.firebaseio.com",
+    "project_id": "authentication-b652f",
+    "storage_bucket": "authentication-b652f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78186601340:android:c8fc89aceeaac94d1062f9",
+        "android_client_info": {
+          "package_name": "com.practice.flutter_car_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78186601340-kt9h6lmh27gb309q2kn6db8ssaapohl0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.practice.flutter_car_app",
+            "certificate_hash": "6c378011205ec3311765c5b92475fda45a43da5f"
+          }
+        },
+        {
+          "client_id": "78186601340-u1kt8vbbb88rijkarhbaat09ti1uldo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHd33D3ofvf2Qr4WaL3EDg9LJUlf60Wzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78186601340-u1kt8vbbb88rijkarhbaat09ti1uldo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
